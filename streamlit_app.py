@@ -19,7 +19,7 @@ from haystack.components.generators.chat import OpenAIChatGenerator
 
 # --------------------------- Initialize Streamlit ---------------------------
 st.set_page_config(page_title="Haystack Chatbot", page_icon="🤖")
-st.title("📝 Haystack Markdown Chatbot")
+st.title("📝 API Discovery Assistant (prototype)")
 
 # --------------------------- Setup Paths ---------------------------
 script_dir = Path(__file__).parent
