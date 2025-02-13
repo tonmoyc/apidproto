@@ -1,0 +1,4 @@
+
+haystack-ai
+sentence-transformers>=3.0.0
+markdown-it-py mdit_plain pypdf
